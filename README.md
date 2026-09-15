@@ -1,6 +1,6 @@
 
 
-# Đề tài : **Xây dựng chỉ số tâm lý tổng hợp nhà đầu tư từ dữ liệu thị trường và dữ liệu văn bản: Đánh giá giá trị thông tin tại thị trường chứng khoán Việt Nam**
+# Đề tài : **Xây dựng chỉ số tâm lý tổng hợp nhà đầu tư và khả năng cải thiện giải thích lợi suất: Thực nghiệm tại thị trường chứng khoán Việt Nam**
 
 ## 1. Giới thiệu
 
