@@ -1,6 +1,6 @@
 
 
-Đề tài : **Xây dựng chỉ số tâm lý tổng hợp nhà đầu tư từ dữ liệu thị trường và dữ liệu văn bản: Đánh giá giá trị thông tin tại thị trường chứng khoán Việt Nam**
+# Đề tài : **Xây dựng chỉ số tâm lý tổng hợp nhà đầu tư từ dữ liệu thị trường và dữ liệu văn bản: Đánh giá giá trị thông tin tại thị trường chứng khoán Việt Nam**
 
 ## 1. Giới thiệu
 
@@ -19,9 +19,9 @@
 
 ## 3. Câu hỏi nghiên cứu
 
-### 1 : Làm sao xây dựng một chỉ số tâm lý tổng hợp (SI) đáng tin cậy từ dữ liệu thị trường và dữ liệu văn bản tại thị trường chứng khoán Việt Nam
+ **1 : Làm sao xây dựng một chỉ số tâm lý tổng hợp (SI) đáng tin cậy từ dữ liệu thị trường và dữ liệu văn bản tại thị trường chứng khoán Việt Nam**
 
-### 2 : Chỉ số này có mang lại giá trị thông tin/dự báo cao hơn so với từng thành phần riêng lẻ hay không?
+ **2 : Chỉ số này có mang lại giá trị thông tin/dự báo cao hơn so với từng thành phần riêng lẻ hay không?**
 
 | Câu hỏi lớn | Câu hỏi nhỏ | Câu hỏi |
 |---|---|---|
